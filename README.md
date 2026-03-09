@@ -42,8 +42,5 @@ Full Stack Developer focused on building scalable software applications and solv
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toobahasnain&show_icons=true)
 
 ⭐ Explore my repositories to see my projects.
