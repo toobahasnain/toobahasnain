@@ -15,23 +15,6 @@ Full Stack Developer focused on building scalable software applications and solv
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frontend**
-
-* React.js
-* JavaScript
-* HTML
-* CSS
-
-**Backend**
-
-* Node.js
-* REST APIs
-* PHP
-
-**Database**
-
-* MySQL
-
 ---
 
 ## 🛠 Tools
