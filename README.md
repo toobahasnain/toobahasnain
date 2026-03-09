@@ -41,5 +41,10 @@ Full Stack Developer focused on building scalable software applications and solv
 * Grow as a full stack software engineer
 
 ---
+---
+
+## 📊 GitHub Stats
+
+![Tooba's GitHub stats](https://github-readme-stats.vercel.app/api?username=toobahasnain&show_icons=true&theme=tokyonight)
 
 ⭐ Explore my repositories to see my projects.
