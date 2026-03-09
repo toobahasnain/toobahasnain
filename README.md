@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Syeda Tooba 👋
 
-<!--
-**toobahasnain/toobahasnain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building scalable software applications and solving real-world problems with technology.
 
-Here are some ideas to get you started:
+📍 Germany
+💼 Open to **Working Student / Junior Developer roles**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+**Frontend**
+
+* React.js
+* JavaScript
+* HTML
+* CSS
+
+**Backend**
+
+* Node.js
+* REST APIs
+* PHP
+
+**Database**
+
+* MySQL
+
+---
+
+## 🛠 Tools
+
+* Git & GitHub
+* Postman
+* Figma
+* VPS / cPanel / WHM
+
+---
+
+## 📚 Currently Learning
+
+* AI integrations in applications
+* Scalable backend architecture
+* Advanced React patterns
+
+---
+
+## 🎯 Goals
+
+* Build real-world software projects
+* Contribute to open-source
+* Grow as a full stack software engineer
+
+---
+
+⭐ Explore my repositories to see my projects.
